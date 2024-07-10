@@ -1,0 +1,10 @@
+python-dotenv~=1.0.0
+numexpr~=2.8.6
+tiktoken~=0.5.1
+llmsherpa~=0.1.2
+chromadb~=0.4.15  # https://github.com/langchain-ai/langchain/issues/13061
+langchain~=0.0.311
+transformers~=4.35.2
+llama_index
+openai~=0.25
+sentence-transformers
